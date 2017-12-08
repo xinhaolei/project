@@ -176,12 +176,12 @@ body {
     /*background-image:url("../img/jiezhi.png") ;*/
     /*animation: img 1s linear infinite;*/
 }
-.swiper-button-prev{
-    position: absolute;
-    top: 5%;
-    left: 47%;
-    transform: rotateZ(270deg);
-}
+/*.swiper-button-prev{*/
+    /*position: absolute;*/
+    /*top: 5%;*/
+    /*left: 47%;*/
+    /*transform: rotateZ(270deg);*/
+/*}*/
 /*@keyframes img {*/
     /*from{*/
         /*bottom: 0;*/

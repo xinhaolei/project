@@ -89,7 +89,7 @@ body {
     /*opacity: 1;}*/
 /*}*/
 .swiper-slide.one .bottom{
-    width: 40%;
+    width:50%;
     height: 10%;
     color: #fff;
     margin: 0 auto;
@@ -98,6 +98,7 @@ body {
 }
 .swiper-slide.one .bottom .out{
     float: left;
+    line-height: 5vw;
     font-size: 7vw;
 }
 /*@keyframes pang {*/

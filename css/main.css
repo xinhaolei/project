@@ -155,10 +155,20 @@ body {
     width: 100%;
     height: 100%;
 }
-
-
-
-
+.swiper-slide.three .center{
+    position: absolute;
+    top:2%;
+}
+.swiper-slide.three .center img{
+    width: 100%;
+}
+.swiper-slide.three .bottom{
+    position: absolute;
+    top: 10%;
+}
+.swiper-slide.three .bottom img{
+    width: 100%;
+}
 
 
 
